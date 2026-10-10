@@ -3,7 +3,7 @@
 // @name         Center Title & macOS Buttons
 // @description  Centers window title and replaces standard caption buttons with macOS-like traffic lights for specified executables
 // @version      1.0
-// @author       Torba_Snigy
+// @author       Prasad Dhumal
 // @github       https://github.com/meshoksnega
 // @include      myprogram.exe
 // ==/WindhawkMod==
