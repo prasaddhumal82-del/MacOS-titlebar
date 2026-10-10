@@ -4,7 +4,7 @@
 // @description  Centers window title and replaces standard caption buttons with macOS-like traffic lights for specified executables
 // @version      1.0
 // @author       Prasad Dhumal
-// @github       https://github.com/meshoksnega
+// @github       https://github.com/prasaddhumal82-del/MacOS-titlebar.git
 // @include      myprogram.exe
 // ==/WindhawkMod==
 
